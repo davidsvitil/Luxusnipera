@@ -1,0 +1,5 @@
+{"cats": {"Plnicí pera": ["plnici","Plnicí pera"], "Kuličková pera": ["kulickova","Kuličková pera"], "Rollery (keramická pera)": ["rollery","Rollery"], "Dárkové sady": ["sady","Dárkové sady"],
+  "Mechanické tužky": ["dalsi","Další psací potřeby"], "Multifunkční pera": ["dalsi","Další psací potřeby"], "Grafitové tužky": ["dalsi","Další psací potřeby"], "Pera s razítkem": ["dalsi","Další psací potřeby"],
+  "Diáře a zápisníky": ["diare","Diáře a zápisníky"], "Příslušenství a doplňky": ["naplne","Náplně a doplňky"], "Kaligrafie & Lettering": ["kaligrafie","Kaligrafie & lettering"],
+  "Kancelář a škola": ["kancelar","Kancelář a výtvarné"], "Výtvarné potřeby": ["kancelar","Kancelář a výtvarné"]},
+ "brand_sub": ["plnici","kulickova","rollery","sady"], "drop": ["Dárkové poukazy","Reklamní pera"], "rate": 24.3, "max_imgs": 4, "max_per_sub": 60}
